@@ -1,6 +1,0 @@
-C:\Users\Mitchell\Documents\SharpDevelop Projects\Arrays and Lists\Arrays1.1\bin\Debug\Arrays1.1.exe.config
-C:\Users\Mitchell\Documents\SharpDevelop Projects\Arrays and Lists\Arrays1.1\bin\Debug\Arrays1.1.exe
-C:\Users\Mitchell\Documents\SharpDevelop Projects\Arrays and Lists\Arrays1.1\bin\Debug\Arrays1.1.pdb
-C:\Users\Mitchell\Documents\SharpDevelop Projects\Arrays and Lists\Arrays1.1\obj\Debug\Arrays1.1.csprojResolveAssemblyReference.cache
-C:\Users\Mitchell\Documents\SharpDevelop Projects\Arrays and Lists\Arrays1.1\obj\Debug\Arrays1.1.exe
-C:\Users\Mitchell\Documents\SharpDevelop Projects\Arrays and Lists\Arrays1.1\obj\Debug\Arrays1.1.pdb
